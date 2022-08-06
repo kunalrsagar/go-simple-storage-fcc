@@ -4,12 +4,6 @@ Follow the blog for more detail information.
 
 [https://medium.com/@kunalsagar/deploy-solidity-contract-using-golang-go-simple-storage-fcc-b247b29ffa18](https://medium.com/@kunalsagar/deploy-solidity-contract-using-golang-go-simple-storage-fcc-b247b29ffa18)
 
-## Clone the repo
-    
-```
-    git clone https://github.com/kunalrsagar/go-simple-storage-fcc
-```
-
 ## Download dependencies
 Download all your dependencies
 ```
